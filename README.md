@@ -1,8 +1,6 @@
 ## Tampilan Aplikasi
-# Dokumentasi Aplikasi
-Tampilan Splash Screen
+### Tampilan Splash Screen
 <img src="./docs/splashscreen.jpg" alt="Tampilan Splash Screen" width="300"/>
-Tampilan Login
 <img src="./docs/login.jpg" alt="Tampilan Login" width="300"/>
 <img src="./docs/regis.jpg" alt="Tampilan Register" width="300"/>
 <img src="./docs/lupas.jpg" alt="Tampilan Lupa Password" width="300"/>
