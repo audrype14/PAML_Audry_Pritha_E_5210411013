@@ -75,7 +75,7 @@ class ForgotPasswordScreen extends StatelessWidget {
             const SizedBox(height: 16),
             const SizedBox(height: 16),
             const Text(
-              'Daftar',
+              'Lupa Password',
               style: TextStyle(
                 fontSize: 32,
                 fontWeight: FontWeight.bold,
